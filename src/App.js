@@ -1,9 +1,4 @@
-import { About } from "./components";
-import {Contact} from "./components";
-import {Home}from "./components";
-import {Navbar} from "./components";
-import {Skills }from "./components";
-import {Work} from "./components";
+import { About, Contact, Home, Navbar, Skills, Work } from "./components";
 
 function App() {
   return (
